@@ -1,0 +1,7 @@
+*{margin:0;padding:0;box-sizing: border-box;}
+.frames{
+    max-width: 1920px;
+    margin: auto;
+    position: relative;
+    overflow: hidden;
+}
